@@ -1,6 +1,14 @@
-# Idiom-Detection
+# TEAM 7: Idiom-Detection
 This repository contains an ensemble semi-supervised idiom detection model.
 
+## TEAM MEMBERS
+
+| NAME             | SRN           |
+|------------------|---------------|
+| C.A. Arunvenkat  | PES2UG20CS068 |
+| Ashutosh         | PES2UG20CS071 |
+| Ashutosh Routray | PES2UG20CS072 |
+| Claudius D'Souza | PES2UG20CS097 |
 
 # Running the project
 
