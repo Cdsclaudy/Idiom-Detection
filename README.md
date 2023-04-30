@@ -10,6 +10,8 @@ Requirements:
 * Debian-based (e.g. Debian, Ubuntu, ...) system 
 * [conda](https://docs.conda.io/en/latest/) installed
 
+Download the required files from [here](https://drive.google.com/drive/u/1/folders/1-qzSnfdgcfsKObJd-2rNFn2h96abev9J)
+
 Run the following command to quickly setup the env needed to run our code:
 ```bash
 
