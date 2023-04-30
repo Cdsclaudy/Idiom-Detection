@@ -1,7 +1,6 @@
 # Idiom-Detection
 This repository contains an ensemble semi-supervised idiom detection model.
 
-**This readme maybe be out of date** please check the repo for an updated one.
 
 # Running the project
 
